@@ -3,7 +3,7 @@ Its an open sourced android application which is a simple cab service applicatio
 
 ### Architecture used
 
-MVVM wih as clean as possible
+MVVM with as clean as possible
 
 ### Technologies used
 
